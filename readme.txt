@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
- and yes
-=======
-&yes
->>>>>>> feature
-=======
-hello
->>>>>>> feature
+git is free software
